@@ -27,6 +27,7 @@ public class Magazine
     }
     public void AjouterArticle(Article unArticle)
     {
+        // Permet d'ajouter un article à la liste
         lesArticles.add(unArticle);
     }
 
